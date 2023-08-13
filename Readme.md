@@ -2,22 +2,52 @@ Shields.io badges
 =====================
 
 revizii
+
 https://shields.io/
+
 https://jsonpath.com/
+
 http://xpather.com/
 
-wikipedia
+**wikipedia**
+
+https://wikipedia.org/
+
+
+
+https://www.wikimedia.org/
+
+https://github.com/wikimedia
+
+https://github.com/wikimedia/mediawiki
+
++
+
 https://shields.io/endpoint
+
 https://simpleicons.org/
 
 +
 
 https://www.mediawiki.org/wiki/XTools/API
-https://xtools.wmflabs.org/api/project/normalize/eowiki
-https://xtools.wmflabs.org/api/user/simple_editcount/eo.wikipedia/Radioamatoro++++
+
+https://xtools.wmflabs.org/api/project/normalize/
+
+eowiki
+
+https://xtools.wmflabs.org/api/user/simple_editcount/
+
+eo.wikipedia/Radioamatoro++++
 
 $.phoneNumbers[:1].type
 $.live_edit_count
+
+
+## Project stats
+
+
+## User stats
+
 
 +
 
@@ -28,9 +58,19 @@ $.live_edit_count
 <a href="https://simpleicons.org"><img src="https://img.shields.io/badge/dynamic/json?color=informational&label=icons&prefix=%20&logo=simpleicons&query=%24.icons.length&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsimple-icons%2Fsimple-icons%2Fdevelop%2F_data%2Fsimple-icons.json" alt="Number of icons currently in the library"/></a>
 <a href="https://opencollective.com/simple-icons"><img src="https://img.shields.io/opencollective/all/simple-icons?logo=opencollective" alt="Backers and sponsors on Open Collective"/></a>
 
-[![Buy me a coffee](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/edent)
+wikimedia donate-----?????----
 
-<a href="https://opencollective.com/SuperTinyIcons"><img src="https://opencollective.com/SuperTinyIcons/individuals.svg?width=890"></a>
+[![Buy me a coffee](https://www.ko-fi.com/img/donate_sm.png)](https://donate.wikimedia.org)
+
+**Liberapay**
+
+https://img.shields.io/liberapay/receives/JaviRamosLab
+
+<img src="https://img.shields.io/liberapay/goal/JaviRamosLab.svg?logo=liberapay">
+
+<a href="https://opencollective.com/SuperTinyIcons">
+
+<img src="https://opencollective.com/SuperTinyIcons/individuals.svg?width=890"></a>
 
 
 ----------------
@@ -63,11 +103,17 @@ $.live_edit_count
 ------
 
 Radioamatoro eo.wikipedia redaktoj
+
 https://img.shields.io/badge/dynamic/json?url=https://xtools.wmflabs.org/api/user/simple_editcount/eo.wikipedia/Radioamatoro&label=Wikipedia&query=$.live_edit_count&color=green&suffix=%20redaktoj
+
 <img src="https://img.shields.io/badge/dynamic/json?url=https://xtools.wmflabs.org/api/user/simple_editcount/eo.wikipedia/Radioamatoro&label=Wikipedia&query=$.live_edit_count&color=green&suffix=%20redaktoj">
 
+[![# of redactions](https://img.shields.io/badge/dynamic/json?url=https://xtools.wmflabs.org/api/user/simple_editcount/eo.wikipedia/Radioamatoro&label=Wikipedia&query=$.live_edit_count&color=green&suffix=%20redaktoj)](https://xtools.wmflabs.org/api/user/simple_editcount/eo.wikipedia/Radioamatoro)
+
 Radioamatoro eo.wikiquote redaktoj
+
 https://img.shields.io/badge/dynamic/json?url=https://xtools.wmflabs.org/api/user/simple_editcount/eo.wikiquote/Radioamatoro&label=Wikiquote&query=$.live_edit_count&color=green&suffix=%20redaktoj
+
 <img src="https://img.shields.io/badge/dynamic/json?url=https://xtools.wmflabs.org/api/user/simple_editcount/eo.wikiquote/Radioamatoro&label=Wikiquote&query=$.live_edit_count&color=green&suffix=%20redaktoj">
 
 
@@ -75,12 +121,13 @@ https://img.shields.io/poeditor/progress/540859/eo?token=42fdd99d6bb7a7e29f54c2c
 
 +
 eo.wiki aktiva
+
 https://img.shields.io/website?down_message=malaktiva&label=retpa%C4%9Do&up_message=aktiva&url=https%3A%2F%2Fesperanto.wiki
+
 <img src="https://img.shields.io/website?down_message=malaktiva&label=retpa%C4%9Do&up_message=aktiva&url=https%3A%2F%2Fesperanto.wiki">
+
 +
-liberapay
-https://img.shields.io/liberapay/receives/Radioamatoro
-<img src="https://img.shields.io/liberapay/goal/Radioamatoro.svg?logo=liberapay">
+
 +
 
 
@@ -89,34 +136,47 @@ https://img.shields.io/liberapay/receives/Radioamatoro
 https://img.shields.io/badge/eo-esperanto-green
 
 <a href="https://liberapay.com/Radioamatoro/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
 +
-<img src="https://img.shields.io/liberapay/goal/Radioamatoro.svg?logo=liberapay">
+
+<img src="https://img.shields.io/liberapay/goal/JaviRamosLab.svg?logo=liberapay">
 
 +++++++++++++++++++++++++
 
 ## Github
-[![GitHub followers](https://img.shields.io/github/followers/a-maliarov?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
-[![GitHub forks](https://img.shields.io/github/forks/a-maliarov/awesome-shields?branch=master&label=Forks&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
-[![GitHub stars](https://img.shields.io/github/stars/a-maliarov/awesome-shields?branch=master&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
-[![GitHub user stars](https://img.shields.io/github/stars/a-maliarov?affiliations=OWNER&branch=master&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+[![GitHub followers](https://img.shields.io/github/followers/Wikimedia?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+
+[![GitHub forks](https://img.shields.io/github/forks/Wikimedia/mediawiki?branch=master&label=Forks&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+
+[![GitHub stars](https://img.shields.io/github/stars/Wikimedia/mediawiki?branch=master&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+
+[![GitHub user stars](https://img.shields.io/github/stars/Wikimedia?affiliations=OWNER&branch=master&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+
 [![GitHub watchers](https://img.shields.io/github/watchers/badges/shields?branch=master&label=Watchers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 
 ## YouTube
 [![Youtube Comments](https://img.shields.io/youtube/comments/xFXERAZ3RIg?label=Comments&logo=youtube&logoColor=ffffff&labelColor=FF0000&color=282828&style=flat)]()
+
 [![Youtube Likes](https://img.shields.io/youtube/likes/xFXERAZ3RIg?label=Likes&logo=youtube&logoColor=ffffff&labelColor=FF0000&color=282828&style=flat)]()
+
 [![Youtube Views](https://img.shields.io/youtube/views/xFXERAZ3RIg?label=Views&logo=youtube&logoColor=ffffff&labelColor=FF0000&color=282828&style=flat)]()
 
 
 
 ## Patreon
 [![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio-patreon.herokuapp.com%2Ftwintproject?branch=master&label=Patreon&logo=Patreon&logoColor=f96854&labelColor=306998&color=f96854&style=flat)]()
+
 [![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio-patreon.herokuapp.com%2Ftwintproject?branch=master&label=Patreon&logo=Patreon&logoColor=f96854&labelColor=282828&color=f96854&style=flat)]()
+
 [![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio-patreon.herokuapp.com%2Ftwintproject?branch=master&label=Patreon&logo=Patreon&logoColor=ff3333&labelColor=282828&color=ff3333&style=flat)]()
 
 ## WordPress
 [![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/bbpress?branch=master&label=Plugin%20Rating&logo=WordPress&logoColor=ffffff&labelColor=21759b&style=flat)]()
+
 [![WordPress Theme Rating](https://img.shields.io/wordpress/theme/rating/twentyseventeen?branch=master&label=Theme%20Rating&logo=WordPress&logoColor=ffffff&labelColor=21759b&style=flat)]()
+
 [![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/bbpress?branch=master&label=Plugin%20Rating&logo=WordPress&logoColor=ffffff&labelColor=282828&style=flat)]()
+
 [![WordPress Theme Rating](https://img.shields.io/wordpress/theme/rating/twentyseventeen?branch=master&label=Theme%20Rating&logo=WordPress&logoColor=ffffff&labelColor=282828&style=flat)]()
 
 
@@ -149,28 +209,28 @@ https://img.shields.io/badge/eo-esperanto-green
 
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
-[![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/Naereen/Strapdown.js/)
+[![GitHub branches](https://badgen.net/github/branches/JaviRamosLab/Strapdown.js)](https://github.com/JaviRamosLab/Strapdown.js/)
 
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
+[![GitHub release](https://img.shields.io/github/release/JaviRamosLab/StrapDown.js.svg)](https://GitHub.com/JaviRamosLab/StrapDown.js/releases/)
 
-[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+[![GitHub commits](https://badgen.net/github/commits/JaviRamosLab/Strapdown.js)](https://GitHub.com/JaviRamosLab/StrapDown.js/commit/)
 
 
 ### ok
-[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
+[![GitHub forks](https://img.shields.io/github/forks/JaviRamosLab/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/JaviRamosLab/StrapDown.js/network/)
 
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/JaviRamosLab/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/JaviRamosLab/StrapDown.js/stargazers/)
 
-[![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[![GitHub stars](https://badgen.net/github/stars/JaviRamosLab/Strapdown.js)](https://GitHub.com/JaviRamosLab/StrapDown.js/stargazers/)
 
 
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/JaviRamosLab.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JaviRamosLab?tab=followers)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaviRamosLab&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![JaviRamosLab's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviRamosLab&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+[![Sparkline](https://stars.medv.io/JaviRamosLab/badges.svg)](https://stars.medv.io/JaviRamosLab/badges)
 
 
 
@@ -178,19 +238,19 @@ https://img.shields.io/badge/eo-esperanto-green
 
 +++
 
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=Naereen/badges)
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=JaviRamosLab/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=JaviRamosLab/badges)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/JaviRamosLab/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/JaviRamosLab/StrapDown.js/watchers/)
 
-![Profile views](https://gpvc.arturio.dev/Naereen)
+![Profile views](https://gpvc.arturio.dev/JaviRamosLab)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/badges.svg)](https://GitHub.com/Naereen/badges/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/JaviRamosLab/badges.svg)](https://GitHub.com/JaviRamosLab/badges/graphs/contributors/)
 
-[![Only 32 Kb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://github.com/Naereen/StrapDown.js/blob/master/strapdown.min.js)
+[![Only 32 Kb](https://badge-size.herokuapp.com/JaviRamosLab/StrapDown.js/master/strapdown.min.js)](https://github.com/JaviRamosLab/StrapDown.js/blob/master/strapdown.min.js)
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=JaviRamosLab&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JaviRamosLab&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 +++++++++++++++
@@ -218,7 +278,6 @@ https://img.shields.io/badge/eo-esperanto-green
 
 +++++++++++++++
 
-+
 
 [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
 
@@ -256,43 +315,12 @@ https://img.shields.io/badge/eo-esperanto-green
 
 [![Twitter Followers](https://badgen.net/twitter/follow/javascript)](https://twitter.com/javascript)
 
-[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/JaviRamosLab/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/JaviRamosLab/)
 
 
 ++++++++++
 
-### Fonto
+### Source
 https://github.com/Naereen/badges
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

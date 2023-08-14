@@ -1,31 +1,235 @@
 Shields.io badges
 =====================
 
-revizii
+
+
+## Features
+
+- [x] Static wikiprojects badges
+- [x] Dynamic wikiprojects badges
+- [x] Brand SVG wikimedia Logo
+- [x] Stats Wikiproject dynamic badges
+- [x] Stats User dynamic badges
+- [x] Brand Badges
+- [] Grphics charts
+- [] Picture of the day
+- [] [![MediaWiki:Sitenotice](https://img.shields.io/badge/Wikipedia-000?logo=wikipedia&logoColor=fff&style=flat)](https://en.wikipedia.org/wiki/MediaWiki:Sitenotice) / [![MediaWiki:Anonnotice](https://img.shields.io/badge/Wikipedia-000?logo=wikipedia&logoColor=fff&style=flat)](https://en.wikipedia.org/wiki/MediaWiki:Anonnotice)
+- [] API - endpoints
+- [x] Easy to Use
+
+## Use
+
+- [x] GitHub Profile
+- [x] README.md
+- [x] Markdown File
+- [x] Webpage or Website
+
+## References
 
 https://shields.io/
+https://shields.io/endpoint
 
 https://jsonpath.com/
 
 http://xpather.com/
 
-**wikipedia**
+https://simpleicons.org/
 
+
+## Wikimedia projects
+
+https://meta.wikimedia.org/wiki/Complete_list_of_Wikimedia_projects
+https://meta.wikimedia.org/wiki/Table_of_Wikimedia_projects
+
+
+
+### Content projects specialized by linguistic edition
+Wikipedia
+The free encyclopedia
 https://wikipedia.org/
 
+Wiktionary
+Free dictionary and thesaurus
+https://wiktionary.org/
 
+Wikinews
+Free-content news
+https://wikinews.org/
 
+Wikivoyage
+Free travel guide
+https://wikivoyage.org/
+
+Wikiquote
+Collection of quotations
+https://wikiquote.org/
+
+Wikiversity
+Free learning resources
+https://wikiversity.org/
+
+Wikisource
+Free-content library
+https://wikisource.org/
+
+Wikibooks
+Free textbooks and manuals
+https://wikibooks.org/
+
+---
+
+### Multilingual content projects
+
+Wikimedia Commons
+Free media repository
+https://commons.wikimedia.org/
+
+Wikidata
+Free knowledge base
+https://www.wikidata.org/
+
+Wikispecies
+Free directory of species
+https://species.wikimedia.org/
+
+Wikimedia Incubator
+For language versions in development
+https://incubator.wikimedia.org/
+
+Wikifunctions
+Free code repository
+https://www.wikifunctions.org/wiki/
+
+---
+
+### "Outreach and administration" projects
+
+Wikimedia Foundation
+Foundation public relations
 https://www.wikimedia.org/
+
+Wikimedia Outreach
+Wikimedia outreach wiki
+https://outreach.wikimedia.org/
+
+Wikimania
+The International Conference
+https://wikimania.wikimedia.org/
+
+Wikimedia Mailservices
+Wikimedia mailing lists
+https://lists.wikimedia.org/
+
+Wikistats
+Wikimedia statistics
+https://stats.wikimedia.org/
+
+---
+
+### "Technical and development" projects
+
+MediaWiki
+MediaWiki software documentation
+https://www.mediawiki.org/
+
+Wikitech
+Wikimedia technical documentation
+https://wikitech.wikimedia.org/
+
+Phabricator
+Issue tracker and planning tool for software projects
+https://phabricator.wikimedia.org/
+
+Test Wikipedia
+For testing software changes
+https://test.wikipedia.org/wiki/
+
+Wikimedia Cloud Services
+Hosting environment for community managed software projects, tools, and data analysis
+https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction
+
+## Descriptions and statistics
+
+[Wikipedia](https://meta.wikimedia.org/wiki/Wikipedia) - [Wiktionary](https://meta.wikimedia.org/wiki/Wiktionary) - [Wikinews](https://meta.wikimedia.org/wiki/Wikinews) - [Wikivoyage](https://meta.wikimedia.org/wiki/Wikivoyage) - [Wikiquote](https://meta.wikimedia.org/wiki/Wikiquote) - [Wikiversity](https://meta.wikimedia.org/wiki/Wikiversity) - [Wikisource](https://meta.wikimedia.org/wiki/Wikisource) - [Wikibooks](https://meta.wikimedia.org/wiki/Wikibooks) - [Wikimedia Commons](https://meta.wikimedia.org/wiki/Wikimedia_Commons) - [Wikidata](https://meta.wikimedia.org/wiki/Wikidata) - [Wikispecies](https://meta.wikimedia.org/wiki/Wikispecies) - [Wikimedia Incubator](https://meta.wikimedia.org/wiki/Wikimedia_Incubator)
+
+## Basic badges by project
+
+![Wikipedia Badge](https://img.shields.io/badge/Wikipedia-000?logo=wikipedia&logoColor=fff&style=flat)
+![Wikidata Badge](https://img.shields.io/badge/Wikidata-069?logo=wikidata&logoColor=fff&style=flat)
+![Wikimedia Commons Badge](https://img.shields.io/badge/Wikimedia%20Commons-069?logo=wikimediacommons&logoColor=fff&style=flat)
+![Wikiquote Badge](https://img.shields.io/badge/Wikiquote-069?logo=wikiquote&logoColor=fff&style=flat)
+![Wikivoyage Badge](https://img.shields.io/badge/Wikivoyage-069?logo=wikivoyage&logoColor=fff&style=flat)
+
+
+## GitHub
 
 https://github.com/wikimedia
 
 https://github.com/wikimedia/mediawiki
 
-+
+[![GitHub followers](https://img.shields.io/github/followers/Wikimedia?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 
-https://shields.io/endpoint
+[![GitHub forks](https://img.shields.io/github/forks/Wikimedia/mediawiki?branch=master&label=Forks&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 
-https://simpleicons.org/
+[![GitHub stars](https://img.shields.io/github/stars/Wikimedia/mediawiki?branch=master&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+
+[![GitHub user stars](https://img.shields.io/github/stars/Wikimedia?affiliations=OWNER&branch=master&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+
+[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields?branch=master&label=Watchers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+
+
+[![AGPL 3+](https://img.shields.io/github/license/VectorLogoZone/vectorlogozone.svg)](LICENSE.txt)
+![Github watchers](https://img.shields.io/github/watchers/VectorLogoZone/vectorlogozone.svg?style=social)
+![Github stars](https://img.shields.io/github/stars/VectorLogoZone/vectorlogozone.svg?style=social)
+
+
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+
+[![GitHub branches](https://badgen.net/github/branches/JaviRamosLab/Strapdown.js)](https://github.com/JaviRamosLab/Strapdown.js/)
+
+[![GitHub release](https://img.shields.io/github/release/JaviRamosLab/StrapDown.js.svg)](https://GitHub.com/JaviRamosLab/StrapDown.js/releases/)
+
+[![GitHub commits](https://badgen.net/github/commits/JaviRamosLab/Strapdown.js)](https://GitHub.com/JaviRamosLab/StrapDown.js/commit/)
+
+
+
+
+### ok
+[![GitHub forks](https://img.shields.io/github/forks/JaviRamosLab/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/JaviRamosLab/StrapDown.js/network/)
+
+[![GitHub stars](https://img.shields.io/github/stars/JaviRamosLab/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/JaviRamosLab/StrapDown.js/stargazers/)
+
+[![GitHub stars](https://badgen.net/github/stars/JaviRamosLab/Strapdown.js)](https://GitHub.com/JaviRamosLab/StrapDown.js/stargazers/)
+
+
+[![GitHub followers](https://img.shields.io/github/followers/JaviRamosLab.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JaviRamosLab?tab=followers)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaviRamosLab&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![JaviRamosLab's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviRamosLab&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Sparkline](https://stars.medv.io/JaviRamosLab/badges.svg)](https://stars.medv.io/JaviRamosLab/badges)
+
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=JaviRamosLab/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=JaviRamosLab/badges)
+
+[![GitHub watchers](https://img.shields.io/github/watchers/JaviRamosLab/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/JaviRamosLab/StrapDown.js/watchers/)
+
+![Profile views](https://gpvc.arturio.dev/JaviRamosLab)
+
+[![GitHub contributors](https://img.shields.io/github/contributors/JaviRamosLab/badges.svg)](https://GitHub.com/JaviRamosLab/badges/graphs/contributors/)
+
+[![Only 32 Kb](https://badge-size.herokuapp.com/JaviRamosLab/StrapDown.js/master/strapdown.min.js)](https://github.com/JaviRamosLab/StrapDown.js/blob/master/strapdown.min.js)
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=JaviRamosLab&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JaviRamosLab&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
+
+## Social media
+
+### Social media by language/project
+
 
 +
 
@@ -33,15 +237,7 @@ https://www.mediawiki.org/wiki/XTools/API
 
 https://xtools.wmflabs.org/api/project/normalize/
 
-eowiki
-
 https://xtools.wmflabs.org/api/user/simple_editcount/
-
-eo.wikipedia/Radioamatoro++++
-
-$.phoneNumbers[:1].type
-$.live_edit_count
-
 
 ## Project stats
 
@@ -58,19 +254,27 @@ $.live_edit_count
 <a href="https://simpleicons.org"><img src="https://img.shields.io/badge/dynamic/json?color=informational&label=icons&prefix=%20&logo=simpleicons&query=%24.icons.length&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsimple-icons%2Fsimple-icons%2Fdevelop%2F_data%2Fsimple-icons.json" alt="Number of icons currently in the library"/></a>
 <a href="https://opencollective.com/simple-icons"><img src="https://img.shields.io/opencollective/all/simple-icons?logo=opencollective" alt="Backers and sponsors on Open Collective"/></a>
 
-wikimedia donate-----?????----
+## wikimedia donate
+
 
 [![Buy me a coffee](https://www.ko-fi.com/img/donate_sm.png)](https://donate.wikimedia.org)
 
 **Liberapay**
 
-https://img.shields.io/liberapay/receives/JaviRamosLab
+https://img.shields.io/liberapay/receives/wikimedia-----
 
-<img src="https://img.shields.io/liberapay/goal/JaviRamosLab.svg?logo=liberapay">
+<img src="https://img.shields.io/liberapay/goal/wikimedia.svg?logo=liberapay">
 
-<a href="https://opencollective.com/SuperTinyIcons">
+<a href="https://opencollective.com/wikimedia">
 
-<img src="https://opencollective.com/SuperTinyIcons/individuals.svg?width=890"></a>
+<img src="https://opencollective.com/wikimedia/individuals.svg?width=890"></a>
+
+
+[![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio-patreon.herokuapp.com%2Fwikimedia?branch=master&label=Patreon&logo=Patreon&logoColor=f96854&labelColor=306998&color=f96854&style=flat)]()
+
+[![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio-patreon.herokuapp.com%2Fwikimedia?branch=master&label=Patreon&logo=Patreon&logoColor=f96854&labelColor=282828&color=f96854&style=flat)]()
+
+[![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio-patreon.herokuapp.com%2Fwikimedia?branch=master&label=Patreon&logo=Patreon&logoColor=ff3333&labelColor=282828&color=ff3333&style=flat)]()
 
 
 ----------------
@@ -80,9 +284,7 @@ https://img.shields.io/liberapay/receives/JaviRamosLab
 [![30 day uptime](https://img.shields.io/nodeping/uptime/wbe44oj5-13fx-4h6l-8ojp-tlbno9b01gmu.svg?label=30-day%20uptime&style=flat)](https://nodeping.com/reports/uptime/wbe44oj5-13fx-4h6l-8ojp-tlbno9b01gmu)
 [![Deploy](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/deploy.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/deploy.yaml)
 
-[![AGPL 3+](https://img.shields.io/github/license/VectorLogoZone/vectorlogozone.svg)](LICENSE.txt)
-![Github watchers](https://img.shields.io/github/watchers/VectorLogoZone/vectorlogozone.svg?style=social)
-![Github stars](https://img.shields.io/github/stars/VectorLogoZone/vectorlogozone.svg?style=social)
+
 
 
 ### Share:
@@ -90,12 +292,6 @@ https://img.shields.io/liberapay/receives/JaviRamosLab
 <a href="https://simpleshare.io/go?site=pinboard&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on pinboard" src="https://www.vectorlogo.zone/logos/pinboard/pinboard-tile.svg" height="24" /></a>
 <a href="https://simpleshare.io/go?site=reddit&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on reddit" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" height="24" /></a>
 <a href="https://simpleshare.io/go?site=twitter&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="24" /></a>
-
-
-
-
-
-
 
 
 
@@ -120,39 +316,22 @@ https://img.shields.io/badge/dynamic/json?url=https://xtools.wmflabs.org/api/use
 https://img.shields.io/poeditor/progress/540859/eo?token=42fdd99d6bb7a7e29f54c2c0117dc59b
 
 +
-eo.wiki aktiva
 
-https://img.shields.io/website?down_message=malaktiva&label=retpa%C4%9Do&up_message=aktiva&url=https%3A%2F%2Fesperanto.wiki
-
-<img src="https://img.shields.io/website?down_message=malaktiva&label=retpa%C4%9Do&up_message=aktiva&url=https%3A%2F%2Fesperanto.wiki">
-
-+
-
-+
 
 
 ------
 
 https://img.shields.io/badge/eo-esperanto-green
 
-<a href="https://liberapay.com/Radioamatoro/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+<a href="https://liberapay.com/Wikimedia/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 +
 
-<img src="https://img.shields.io/liberapay/goal/JaviRamosLab.svg?logo=liberapay">
+<img src="https://img.shields.io/liberapay/goal/Wikimedia.svg?logo=liberapay">
 
 +++++++++++++++++++++++++
 
-## Github
-[![GitHub followers](https://img.shields.io/github/followers/Wikimedia?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 
-[![GitHub forks](https://img.shields.io/github/forks/Wikimedia/mediawiki?branch=master&label=Forks&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
-
-[![GitHub stars](https://img.shields.io/github/stars/Wikimedia/mediawiki?branch=master&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
-
-[![GitHub user stars](https://img.shields.io/github/stars/Wikimedia?affiliations=OWNER&branch=master&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
-
-[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields?branch=master&label=Watchers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 
 ## YouTube
 [![Youtube Comments](https://img.shields.io/youtube/comments/xFXERAZ3RIg?label=Comments&logo=youtube&logoColor=ffffff&labelColor=FF0000&color=282828&style=flat)]()
@@ -163,21 +342,6 @@ https://img.shields.io/badge/eo-esperanto-green
 
 
 
-## Patreon
-[![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio-patreon.herokuapp.com%2Ftwintproject?branch=master&label=Patreon&logo=Patreon&logoColor=f96854&labelColor=306998&color=f96854&style=flat)]()
-
-[![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio-patreon.herokuapp.com%2Ftwintproject?branch=master&label=Patreon&logo=Patreon&logoColor=f96854&labelColor=282828&color=f96854&style=flat)]()
-
-[![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio-patreon.herokuapp.com%2Ftwintproject?branch=master&label=Patreon&logo=Patreon&logoColor=ff3333&labelColor=282828&color=ff3333&style=flat)]()
-
-## WordPress
-[![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/bbpress?branch=master&label=Plugin%20Rating&logo=WordPress&logoColor=ffffff&labelColor=21759b&style=flat)]()
-
-[![WordPress Theme Rating](https://img.shields.io/wordpress/theme/rating/twentyseventeen?branch=master&label=Theme%20Rating&logo=WordPress&logoColor=ffffff&labelColor=21759b&style=flat)]()
-
-[![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/rating/bbpress?branch=master&label=Plugin%20Rating&logo=WordPress&logoColor=ffffff&labelColor=282828&style=flat)]()
-
-[![WordPress Theme Rating](https://img.shields.io/wordpress/theme/rating/twentyseventeen?branch=master&label=Theme%20Rating&logo=WordPress&logoColor=ffffff&labelColor=282828&style=flat)]()
 
 
 +++++++++++++++++++++++++
@@ -207,30 +371,7 @@ https://img.shields.io/badge/eo-esperanto-green
 
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges)
 
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
-[![GitHub branches](https://badgen.net/github/branches/JaviRamosLab/Strapdown.js)](https://github.com/JaviRamosLab/Strapdown.js/)
-
-[![GitHub release](https://img.shields.io/github/release/JaviRamosLab/StrapDown.js.svg)](https://GitHub.com/JaviRamosLab/StrapDown.js/releases/)
-
-[![GitHub commits](https://badgen.net/github/commits/JaviRamosLab/Strapdown.js)](https://GitHub.com/JaviRamosLab/StrapDown.js/commit/)
-
-
-### ok
-[![GitHub forks](https://img.shields.io/github/forks/JaviRamosLab/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/JaviRamosLab/StrapDown.js/network/)
-
-[![GitHub stars](https://img.shields.io/github/stars/JaviRamosLab/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/JaviRamosLab/StrapDown.js/stargazers/)
-
-[![GitHub stars](https://badgen.net/github/stars/JaviRamosLab/Strapdown.js)](https://GitHub.com/JaviRamosLab/StrapDown.js/stargazers/)
-
-
-[![GitHub followers](https://img.shields.io/github/followers/JaviRamosLab.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JaviRamosLab?tab=followers)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaviRamosLab&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-[![JaviRamosLab's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviRamosLab&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Sparkline](https://stars.medv.io/JaviRamosLab/badges.svg)](https://stars.medv.io/JaviRamosLab/badges)
 
 
 
@@ -238,19 +379,6 @@ https://img.shields.io/badge/eo-esperanto-green
 
 +++
 
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=JaviRamosLab/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=JaviRamosLab/badges)
-
-[![GitHub watchers](https://img.shields.io/github/watchers/JaviRamosLab/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/JaviRamosLab/StrapDown.js/watchers/)
-
-![Profile views](https://gpvc.arturio.dev/JaviRamosLab)
-
-[![GitHub contributors](https://img.shields.io/github/contributors/JaviRamosLab/badges.svg)](https://GitHub.com/JaviRamosLab/badges/graphs/contributors/)
-
-[![Only 32 Kb](https://badge-size.herokuapp.com/JaviRamosLab/StrapDown.js/master/strapdown.min.js)](https://github.com/JaviRamosLab/StrapDown.js/blob/master/strapdown.min.js)
-
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=JaviRamosLab&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JaviRamosLab&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
 +++++++++++++++
@@ -320,7 +448,66 @@ https://img.shields.io/badge/eo-esperanto-green
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/JaviRamosLab/)
 
 
-++++++++++
 
 ### Source
 https://github.com/Naereen/badges
+
+++++++++++
+
+
+### Wikimedia community sites:
+
+    Community wikis: Meta-Wiki • Wikimedia Incubator • Outreach wiki • Wikimedia strategic planning (read-only) • Nostalgia wiki (read-only) • Wikipedia 10th anniversary planning (read-only) • Wikimedia Usability wiki (read-only) 
+https://strategy.wikimedia.org/wiki/
+https://nostalgia.wikipedia.org/
+https://ten.wikipedia.org/
+https://usability.wikimedia.org/wiki/
+
+### Technical sites:
+
+    Technical wikis: MediaWiki.org • Wikitech • Translatewiki.net (community site) • Login Wiki (read-only) • Phabricator • Downloads • Mailing lists • IRC Server 
+
+    Test wikis: Test Wiki • Test 2 Wiki • Test Wikidata
+
+https://translatewiki.net/wiki/
+https://login.wikimedia.org/
+https://phabricator.wikimedia.org/
+https://dumps.wikimedia.org/
+irc://irc.wikimedia.org/
+https://test2.wikipedia.org/wiki/
+https://test.wikidata.org/wiki/
+
+source:
+https://meta.wikimedia.org/wiki/Complete_list_of_Wikimedia_projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Language projects
+Many other Wikipedias are available; some of the largest are listed below.
+https://meta.wikimedia.org/wiki/List_of_Wikipedias
+
+## 💬 Questions?
+
+Feel free to [open an issue](http://github.com/javiramoslab/shields.io-badges-Wikipedia-Wikimedia/issues/new/choose).
+
+## Contribution
+
+I will be open to any contribution. If you have any idea, please let me know. Please follow this steps to [Contribute](https://github.com/javiramoslab/shields.io-badges-Wikipedia-Wikimedia/blob/master/CONTRIBUTING.md)
+
+## License
+[![licensebuttons by-sa](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0)

@@ -13,16 +13,16 @@ Shields.io badges
 - [x] Brand Badges
 - [] Grphics charts
 - [] Picture of the day
-- [] [![MediaWiki:Sitenotice](https://img.shields.io/badge/Wikipedia-000?logo=wikipedia&logoColor=fff&style=flat)](https://en.wikipedia.org/wiki/MediaWiki:Sitenotice) / [![MediaWiki:Anonnotice](https://img.shields.io/badge/Wikipedia-000?logo=wikipedia&logoColor=fff&style=flat)](https://en.wikipedia.org/wiki/MediaWiki:Anonnotice)
+- [] [MediaWiki:Sitenotice](https://en.wikipedia.org/wiki/MediaWiki:Sitenotice) / [MediaWiki:Anonnotice](https://en.wikipedia.org/wiki/MediaWiki:Anonnotice)
 - [] API - endpoints
 - [x] Easy to Use
 
 ## Use
 
+- [x] Webpage or Website
 - [x] GitHub Profile
 - [x] README.md
 - [x] Markdown File
-- [x] Webpage or Website
 
 ## References
 
@@ -44,35 +44,37 @@ https://meta.wikimedia.org/wiki/Table_of_Wikimedia_projects
 
 
 ### Content projects specialized by linguistic edition
-Wikipedia
+
+**Wikipedia**
+
 The free encyclopedia
 https://wikipedia.org/
 
-Wiktionary
+**Wiktionary**
 Free dictionary and thesaurus
 https://wiktionary.org/
 
-Wikinews
+**Wikinews**
 Free-content news
 https://wikinews.org/
 
-Wikivoyage
+**Wikivoyage**
 Free travel guide
 https://wikivoyage.org/
 
-Wikiquote
+**Wikiquote**
 Collection of quotations
 https://wikiquote.org/
 
-Wikiversity
+**Wikiversity**
 Free learning resources
 https://wikiversity.org/
 
-Wikisource
+**Wikisource**
 Free-content library
 https://wikisource.org/
 
-Wikibooks
+**Wikibooks**
 Free textbooks and manuals
 https://wikibooks.org/
 
@@ -80,23 +82,31 @@ https://wikibooks.org/
 
 ### Multilingual content projects
 
-Wikimedia Commons
+**Wikimedia Commons**
 Free media repository
 https://commons.wikimedia.org/
 
-Wikidata
+**Wikidata**
+
+[![Wikidata-logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/100px-Wikidata-logo.svg.png)](https://commons.wikimedia.org/wiki/File:Wikidata-logo.svg)
 Free knowledge base
 https://www.wikidata.org/
+![wikidata](https://img.shields.io/eclipse-marketplace/l/notepad4e?color=red&label=permesilo&logo=wikidata)
+```md
+![wikidata](https://img.shields.io/eclipse-marketplace/l/notepad4e?color=red&label=permesilo&logo=wikidata)
+```
 
-Wikispecies
+**Wikispecies**
 Free directory of species
 https://species.wikimedia.org/
 
-Wikimedia Incubator
+**Wikimedia Incubator**
+
 For language versions in development
 https://incubator.wikimedia.org/
 
-Wikifunctions
+**Wikifunctions**
+
 Free code repository
 https://www.wikifunctions.org/wiki/
 
@@ -104,23 +114,28 @@ https://www.wikifunctions.org/wiki/
 
 ### "Outreach and administration" projects
 
-Wikimedia Foundation
+**Wikimedia Foundation**
+
 Foundation public relations
 https://www.wikimedia.org/
 
-Wikimedia Outreach
+**Wikimedia Outreach**
+
 Wikimedia outreach wiki
 https://outreach.wikimedia.org/
 
-Wikimania
+**Wikimania**
+
 The International Conference
 https://wikimania.wikimedia.org/
 
-Wikimedia Mailservices
+**Wikimedia Mailservices**
+
 Wikimedia mailing lists
 https://lists.wikimedia.org/
 
-Wikistats
+**Wikistats**
+
 Wikimedia statistics
 https://stats.wikimedia.org/
 
@@ -128,23 +143,28 @@ https://stats.wikimedia.org/
 
 ### "Technical and development" projects
 
-MediaWiki
+**MediaWiki**
+
 MediaWiki software documentation
 https://www.mediawiki.org/
 
-Wikitech
+**Wikitech**
+
 Wikimedia technical documentation
 https://wikitech.wikimedia.org/
 
-Phabricator
+**Phabricator**
+
 Issue tracker and planning tool for software projects
 https://phabricator.wikimedia.org/
 
-Test Wikipedia
+**Test Wikipedia**
+
 For testing software changes
 https://test.wikipedia.org/wiki/
 
-Wikimedia Cloud Services
+**Wikimedia Cloud Services**
+
 Hosting environment for community managed software projects, tools, and data analysis
 https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction
 
@@ -154,28 +174,152 @@ https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction
 
 ## Basic badges by project
 
-![Wikipedia Badge](https://img.shields.io/badge/Wikipedia-000?logo=wikipedia&logoColor=fff&style=flat)
+### shields.io
 ![Wikidata Badge](https://img.shields.io/badge/Wikidata-069?logo=wikidata&logoColor=fff&style=flat)
 ![Wikimedia Commons Badge](https://img.shields.io/badge/Wikimedia%20Commons-069?logo=wikimediacommons&logoColor=fff&style=flat)
 ![Wikiquote Badge](https://img.shields.io/badge/Wikiquote-069?logo=wikiquote&logoColor=fff&style=flat)
 ![Wikivoyage Badge](https://img.shields.io/badge/Wikivoyage-069?logo=wikivoyage&logoColor=fff&style=flat)
+![Wikiquote Badge](https://img.shields.io/badge/wikiquote-069?logo=wikiquote&logoColor=fff&style=flat)
+![Phabricator Badge](https://img.shields.io/badge/phabricator-069?logo=phabricator&logoColor=fff&style=flat)
+
+
+### badgen.net
+
+![Test wikipedia](https://badgen.net/badge/Test%20wikipedia/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/4/4a/Wikipedia_logo_v2_%28black%29.svg)
+
+![Wikimania](https://badgen.net/badge/Wikimania/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/5/57/Wikimania.svg)
+
+![Wikimedia cloud services](https://badgen.net/badge/Wikimedia%20cloud%20services/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/3/3d/Wikimedia_Cloud_Services_logo.svg)
+
+![Wikimedia foundation](https://badgen.net/badge/Wikimedia%20foundation/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/8/81/Wikimedia-logo.svg)
+
+![Wikimedia foundation](https://badgen.net/badge/Wikimedia%20foundation/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/8/8b/Wikimedia-logo_black.svg)
+
+![Wikimedia incubator](https://badgen.net/badge/Wikimedia%20incubator/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/e/e3/Incubator-logo.svg)
+
+![Wikimedia mailservices](https://badgen.net/badge/Wikimedia%20mailservices/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/d/d6/Wikimedia_Community_Logo-Mailservices.svg)
+
+![Wikitech](https://badgen.net/badge/Wikitech/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/5/58/Wikitech_logo.svg)
+
+![Wikimedia community](https://badgen.net/badge/Wikimedia%20community/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/7/75/Wikimedia_Community_Logo.svg)
+
+![Wikimedia community](https://badgen.net/badge/Wikimedia%20community/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/5/53/Wikimedia_Community_logo_black.svg)
+
+![Wikidata](https://badgen.net/badge/Wikidata/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg)
+
+![Wikiversity](https://badgen.net/badge/Wikiversity/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/0/0b/Wikiversity_logo_2017.svg)
+
+![Wikibooks](https://badgen.net/badge/Wikibooks/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikibooks-logo.svg)
+
+![Wikifunctions](https://badgen.net/badge/Wikifunctions/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/0/0c/Wikifunctions-logo.svg)
+
+![WikiJournal](https://badgen.net/badge/WikiJournal/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/b/b6/WikiJournal_logo.svg)
+
+![Wikimedia](https://badgen.net/badge/Wikimedia/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/8/81/Wikimedia-logo.svg)
+
+![Wikinews](https://badgen.net/badge/Wikinews/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/2/24/Wikinews-logo.svg)
+
+![Wikipedia](https://badgen.net/badge/Wikipedia/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg)
+
+![Wikiquote](https://badgen.net/badge/Wikiquote/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/f/fa/Wikiquote-logo.svg)
+
+![Wikisource](https://badgen.net/badge/Wikisource/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg)
+
+![Wikivoyage](https://badgen.net/badge/Wikivoyage/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/8/8a/Wikivoyage-logo.svg)
+
+![Wiktionary](https://badgen.net/badge/Wiktionary/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/e/ec/Wiktionary-logo.svg)
+
+![Commons](https://badgen.net/badge/Commons/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg)
+
+![Wikispecies](https://badgen.net/badge/Wikispecies/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/d/df/Wikispecies-logo.svg)
+
+![MediaWiki](https://badgen.net/badge/MediaWiki/ok/green?icon=https://upload.wikimedia.org/wikipedia/commons/a/a6/MediaWiki-2020-icon.svg)
+
+### custom-icon-badges.demolab.com
+
+![MediaWiki](https://custom-icon-badges.demolab.com/badge/MediaWiki-black.svg?logo=mediawiki-2020-small-icon&logoColor=white)
+
+![Wikimania](https://custom-icon-badges.demolab.com/badge/Wikimania-black.svg?logo=wikimania&logoColor=white)
+
+![Wikimedia cloud services](https://custom-icon-badges.demolab.com/badge/Wikimedia%20cloud%20services-black.svg?logo=wikimedia_cloud_services_logo&logoColor=white)
+
+![Wikimedia foundation](https://custom-icon-badges.demolab.com/badge/Wikimedia%20foundation-black.svg?logo=wikimedia-logo&logoColor=white)
+
+![Wikimedia incubator](https://custom-icon-badges.demolab.com/badge/Wikimedia%20incubator-black.svg?logo=incubator-logo&logoColor=white)
+
+![Wikimedia mailservices](https://custom-icon-badges.demolab.com/badge/Wikimedia%20mailservices-black.svg?logo=wikimedia_community_logo-mailservices&logoColor=white)
+
+![Wikimedia community](https://custom-icon-badges.demolab.com/badge/Wikimedia%20community-black.svg?logo=wikimedia_community_logo&logoColor=white)
+
+![Wikidata](https://custom-icon-badges.demolab.com/badge/Wikidata-black.svg?logo=wikidata-logo&logoColor=white)
+
+![Wikiversity](https://custom-icon-badges.demolab.com/badge/Wikiversity-black.svg?logo=wikiversity_logo_2017&logoColor=white)
+
+![Wikibooks](https://custom-icon-badges.demolab.com/badge/Wikibooks-black.svg?logo=wikibooks-logo&logoColor=white)
+
+![Wikifunctions](https://custom-icon-badges.demolab.com/badge/Wikifunctions-black.svg?logo=wikifunctions-logo&logoColor=white)
+
+![Wikimedia](https://custom-icon-badges.demolab.com/badge/Wikimedia-black.svg?logo=wikimedia-logo&logoColor=white)
+
+![Wikipedia](https://custom-icon-badges.demolab.com/badge/Wikipedia-black.svg?logo=wikipedia&logoColor=white)
+
+![Wikiquote](https://custom-icon-badges.demolab.com/badge/Wikiquote-black.svg?logo=wikiquote-logo&logoColor=white)
+
+![Wikivoyage](https://custom-icon-badges.demolab.com/badge/Wikivoyage-black.svg?logo=wikivoyage-logo&logoColor=white)
+
+![Commons](https://custom-icon-badges.demolab.com/badge/Commons-black.svg?logo=wikimedia-commons-logo&logoColor=white)
+
+![Wikispecies](https://custom-icon-badges.demolab.com/badge/Wikispecies-black.svg?logo=wikispecies-logo&logoColor=white)
+
+![MediaWiki](https://custom-icon-badges.demolab.com/badge/MediaWiki-black.svg?logo=mediawiki-2020-icon&logoColor=white)
+
+
+
+mediawiki
+phabricator
+test wikipedia
+wikibooks
+wikidata
+wikifunctions
+wikimania
+wikimedia cloud services
+wikimedia commons
+wikimedia foundation
+wikimedia incubator
+wikimedia mailservices
+wikimedia outreach
+wikinews
+wikipedia
+wikiquote
+wikisource
+wikispecies
+wikistats
+wikitech
+wikiversity
+wikivoyage
+wiktionary
+
 
 
 ## GitHub
 
+**Wikimedia**
+
 https://github.com/wikimedia
 
-https://github.com/wikimedia/mediawiki
-
 [![GitHub followers](https://img.shields.io/github/followers/Wikimedia?branch=master&label=Followers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+
+[![GitHub user stars](https://img.shields.io/github/stars/Wikimedia?affiliations=OWNER&branch=master&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+
+**Mediawiki**
+
+https://github.com/wikimedia/mediawiki
 
 [![GitHub forks](https://img.shields.io/github/forks/Wikimedia/mediawiki?branch=master&label=Forks&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 
 [![GitHub stars](https://img.shields.io/github/stars/Wikimedia/mediawiki?branch=master&label=Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 
-[![GitHub user stars](https://img.shields.io/github/stars/Wikimedia?affiliations=OWNER&branch=master&label=User%20Stars&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
-
-[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields?branch=master&label=Watchers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
+[![GitHub watchers](https://img.shields.io/github/watchers/Wikimedia/mediawiki?branch=master&label=Watchers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 
 
 [![AGPL 3+](https://img.shields.io/github/license/VectorLogoZone/vectorlogozone.svg)](LICENSE.txt)
@@ -191,20 +335,54 @@ https://github.com/wikimedia/mediawiki
 
 [![GitHub commits](https://badgen.net/github/commits/JaviRamosLab/Strapdown.js)](https://GitHub.com/JaviRamosLab/StrapDown.js/commit/)
 
+---
+
+GitHub followers
+![GitHub followers](https://img.shields.io/github/followers/Wikimedia)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Wikimedia">
+
+GitHub User's stars
+![GitHub User's stars](https://img.shields.io/github/stars/Wikimedia)
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Wikimedia">
+
+GitHub repo size
+![GitHub repo size](https://img.shields.io/github/repo-size/Wikimedia/mediawiki)
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Wikimedia/mediawiki">
 
 
+GitHub issues
+![GitHub issues](https://img.shields.io/github/issues/Wikimedia/mediawiki)
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/Wikimedia/mediawiki">
+
+GitHub pull requests
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Wikimedia/mediawiki)
+<img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Wikimedia/mediawiki">
+
+GitHub milestones
+![GitHub milestones](https://img.shields.io/github/milestones/all/Wikimedia/mediawiki)
+<img alt="GitHub milestones" src="https://img.shields.io/github/milestones/all/Wikimedia/mediawiki">
+
+GitHub Sponsors
+![GitHub Sponsors](https://img.shields.io/github/sponsors/Wikimedia)
+<img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/Wikimedia">
+
+GitHub contributors (via allcontributors.org)
+![GitHub contributors (via allcontributors.org)](https://img.shields.io/github/all-contributors/all-contributors/all-contributors/master)
+<img alt="GitHub contributors (via allcontributors.org)" src="https://img.shields.io/github/all-contributors/all-contributors/all-contributors/master">
+
+---
 
 ### ok
-[![GitHub forks](https://img.shields.io/github/forks/JaviRamosLab/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/JaviRamosLab/StrapDown.js/network/)
+[![GitHub forks](https://img.shields.io/github/forks/JaviRamosLab/shields.io-badges-Wikipedia-Wikimedia.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/JaviRamosLab/shields.io-badges-Wikipedia-Wikimedia/network/)
 
-[![GitHub stars](https://img.shields.io/github/stars/JaviRamosLab/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/JaviRamosLab/StrapDown.js/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/JaviRamosLab/shields.io-badges-Wikipedia-Wikimedia.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/JaviRamosLab/shields.io-badges-Wikipedia-Wikimedia/stargazers/)
 
-[![GitHub stars](https://badgen.net/github/stars/JaviRamosLab/Strapdown.js)](https://GitHub.com/JaviRamosLab/StrapDown.js/stargazers/)
+[![GitHub stars](https://badgen.net/github/stars/JaviRamosLab/shields.io-badges-Wikipedia-Wikimedia)](https://GitHub.com/JaviRamosLab/shields.io-badges-Wikipedia-Wikimedia/stargazers/)
 
 
 [![GitHub followers](https://img.shields.io/github/followers/JaviRamosLab.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JaviRamosLab?tab=followers)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaviRamosLab&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JaviRamosLab&theme=blue-green)](https://github.com/JaviRamosLab/github-readme-stats)
 
 [![JaviRamosLab's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviRamosLab&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -212,17 +390,15 @@ https://github.com/wikimedia/mediawiki
 
 [![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=JaviRamosLab/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=JaviRamosLab/badges)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/JaviRamosLab/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/JaviRamosLab/StrapDown.js/watchers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/JaviRamosLab/shields.io-badges-Wikipedia-Wikimedia.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/JaviRamosLab/shields.io-badges-Wikipedia-Wikimedia/watchers/)
 
 ![Profile views](https://gpvc.arturio.dev/JaviRamosLab)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/JaviRamosLab/badges.svg)](https://GitHub.com/JaviRamosLab/badges/graphs/contributors/)
 
-[![Only 32 Kb](https://badge-size.herokuapp.com/JaviRamosLab/StrapDown.js/master/strapdown.min.js)](https://github.com/JaviRamosLab/StrapDown.js/blob/master/strapdown.min.js)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=JaviRamosLab&row=1)](https://github.com/JaviRamosLab/github-profile-trophy)
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=JaviRamosLab&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JaviRamosLab&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JaviRamosLab&theme=blue-green)](https://github.com/JaviRamosLab/github-readme-streak-stats)
 
 
 
@@ -245,19 +421,11 @@ https://xtools.wmflabs.org/api/user/simple_editcount/
 ## User stats
 
 
-+
-
-[abranhe]: https://github.com/abranhe
-[abranhe-img]: https://avatars3.githubusercontent.com/u/21347264?s=50
-
-
-<a href="https://simpleicons.org"><img src="https://img.shields.io/badge/dynamic/json?color=informational&label=icons&prefix=%20&logo=simpleicons&query=%24.icons.length&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsimple-icons%2Fsimple-icons%2Fdevelop%2F_data%2Fsimple-icons.json" alt="Number of icons currently in the library"/></a>
-<a href="https://opencollective.com/simple-icons"><img src="https://img.shields.io/opencollective/all/simple-icons?logo=opencollective" alt="Backers and sponsors on Open Collective"/></a>
 
 ## wikimedia donate
 
-
 [![Buy me a coffee](https://www.ko-fi.com/img/donate_sm.png)](https://donate.wikimedia.org)
+
 
 **Liberapay**
 
@@ -265,10 +433,19 @@ https://img.shields.io/liberapay/receives/wikimedia-----
 
 <img src="https://img.shields.io/liberapay/goal/wikimedia.svg?logo=liberapay">
 
+<a href="https://liberapay.com/Wikimedia/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
+<img src="https://img.shields.io/liberapay/goal/Wikimedia.svg?logo=liberapay">
+
+**opencollective**
+
+<a href="https://opencollective.com/simple-icons"><img src="https://img.shields.io/opencollective/all/simple-icons?logo=opencollective" alt="Backers and sponsors on Open Collective"/></a>
+
 <a href="https://opencollective.com/wikimedia">
 
 <img src="https://opencollective.com/wikimedia/individuals.svg?width=890"></a>
 
+**Patreon**
 
 [![Patreon](https://img.shields.io/endpoint.svg?url=https:%2F%2Fshieldsio-patreon.herokuapp.com%2Fwikimedia?branch=master&label=Patreon&logo=Patreon&logoColor=f96854&labelColor=306998&color=f96854&style=flat)]()
 
@@ -313,21 +490,12 @@ https://img.shields.io/badge/dynamic/json?url=https://xtools.wmflabs.org/api/use
 <img src="https://img.shields.io/badge/dynamic/json?url=https://xtools.wmflabs.org/api/user/simple_editcount/eo.wikiquote/Radioamatoro&label=Wikiquote&query=$.live_edit_count&color=green&suffix=%20redaktoj">
 
 
-https://img.shields.io/poeditor/progress/540859/eo?token=42fdd99d6bb7a7e29f54c2c0117dc59b
-
-+
-
-
 
 ------
 
-https://img.shields.io/badge/eo-esperanto-green
 
-<a href="https://liberapay.com/Wikimedia/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
-+
 
-<img src="https://img.shields.io/liberapay/goal/Wikimedia.svg?logo=liberapay">
 
 +++++++++++++++++++++++++
 
@@ -457,7 +625,7 @@ https://github.com/Naereen/badges
 
 ### Wikimedia community sites:
 
-    Community wikis: Meta-Wiki • Wikimedia Incubator • Outreach wiki • Wikimedia strategic planning (read-only) • Nostalgia wiki (read-only) • Wikipedia 10th anniversary planning (read-only) • Wikimedia Usability wiki (read-only) 
+Community wikis: Meta-Wiki • Wikimedia Incubator • Outreach wiki • Wikimedia strategic planning (read-only) • Nostalgia wiki (read-only) • Wikipedia 10th anniversary planning (read-only) • Wikimedia Usability wiki (read-only) 
 https://strategy.wikimedia.org/wiki/
 https://nostalgia.wikipedia.org/
 https://ten.wikipedia.org/
@@ -465,9 +633,9 @@ https://usability.wikimedia.org/wiki/
 
 ### Technical sites:
 
-    Technical wikis: MediaWiki.org • Wikitech • Translatewiki.net (community site) • Login Wiki (read-only) • Phabricator • Downloads • Mailing lists • IRC Server 
+Technical wikis: MediaWiki.org • Wikitech • Translatewiki.net (community site) • Login Wiki (read-only) • Phabricator • Downloads • Mailing lists • IRC Server 
 
-    Test wikis: Test Wiki • Test 2 Wiki • Test Wikidata
+Test wikis: Test Wiki • Test 2 Wiki • Test Wikidata
 
 https://translatewiki.net/wiki/
 https://login.wikimedia.org/
@@ -480,11 +648,13 @@ https://test.wikidata.org/wiki/
 source:
 https://meta.wikimedia.org/wiki/Complete_list_of_Wikimedia_projects
 
+---
 
+![Wikidata-logo.svg](https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg)
 
+[![Wikidata-logo.svg](https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg)](https://commons.wikimedia.org/wiki/File:Wikidata-logo.svg)
 
-
-
+![Wikidata-logo.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/100px-Wikidata-logo.svg.png)
 
 
 

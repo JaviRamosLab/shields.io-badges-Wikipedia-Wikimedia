@@ -1,4 +1,4 @@
-Shields.io badges
+Wikipedia/Wikimedia Shields.io badges
 =====================
 
 
@@ -27,10 +27,12 @@ Shields.io badges
 ## References
 
 https://shields.io/
+
 https://shields.io/endpoint
 
-https://jsonpath.com/
+https://badgen.net/
 
+https://jsonpath.com/
 http://xpather.com/
 
 https://simpleicons.org/
@@ -38,8 +40,14 @@ https://simpleicons.org/
 
 ## Wikimedia projects
 
-https://meta.wikimedia.org/wiki/Complete_list_of_Wikimedia_projects
-https://meta.wikimedia.org/wiki/Table_of_Wikimedia_projects
+https://meta.wikimedia.org/wiki/Special:MyLanguage/Complete_list_of_Wikimedia_projects
+https://meta.wikimedia.org/wiki/Special:MyLanguage/Table_of_Wikimedia_projects
+
+**Wikimedia projects**
+https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_projects
+
+**List of Wikipedias**
+https://meta.wikimedia.org/wiki/Special:MyLanguage/List_of_Wikipedias
 
 
 
@@ -298,6 +306,14 @@ wikitech
 wikiversity
 wikivoyage
 wiktionary
+
+## Logos
+
+**Wikipedia logo in each language**
+https://meta.wikimedia.org/wiki/Wikipedia_logo_in_each_language
+https://commons.wikimedia.org/wiki/Category:High-resolution_or_SVG_official_Wikimedia_logos
+https://commons.wikimedia.org/wiki/Category:SVG_Wikimedia_chapters_logos
+https://commons.wikimedia.org/wiki/Category:SVG_Wikimedia_logos
 
 
 

@@ -281,8 +281,6 @@ https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction
 
 ![MediaWiki](https://custom-icon-badges.demolab.com/badge/MediaWiki-black.svg?logo=mediawiki-2020-icon&logoColor=white)
 
-
-
 mediawiki
 phabricator
 test wikipedia
@@ -310,10 +308,10 @@ wiktionary
 ## Logos
 
 **Wikipedia logo in each language**
-https://meta.wikimedia.org/wiki/Wikipedia_logo_in_each_language
-https://commons.wikimedia.org/wiki/Category:High-resolution_or_SVG_official_Wikimedia_logos
-https://commons.wikimedia.org/wiki/Category:SVG_Wikimedia_chapters_logos
-https://commons.wikimedia.org/wiki/Category:SVG_Wikimedia_logos
+- https://meta.wikimedia.org/wiki/Wikipedia_logo_in_each_language
+- https://commons.wikimedia.org/wiki/Category:High-resolution_or_SVG_official_Wikimedia_logos
+- https://commons.wikimedia.org/wiki/Category:SVG_Wikimedia_chapters_logos
+- https://commons.wikimedia.org/wiki/Category:SVG_Wikimedia_logos
 
 
 
@@ -338,18 +336,24 @@ https://github.com/wikimedia/mediawiki
 [![GitHub watchers](https://img.shields.io/github/watchers/Wikimedia/mediawiki?branch=master&label=Watchers&logo=GitHub&logoColor=ffffff&labelColor=282828&color=informational&style=flat)]()
 
 
-[![AGPL 3+](https://img.shields.io/github/license/VectorLogoZone/vectorlogozone.svg)](LICENSE.txt)
+[![AGPL 3+](https://img.shields.io/github/license/wikimedia/vectorlogozone.svg)](LICENSE.txt)
+[![AGPL 3+](https://img.shields.io/github/license/VectorLogoZone/wikimedia.svg)](LICENSE.txt)
 ![Github watchers](https://img.shields.io/github/watchers/VectorLogoZone/vectorlogozone.svg?style=social)
+![Github watchers](https://img.shields.io/github/watchers/wikimedia/mediawiki.svg?style=social)
 ![Github stars](https://img.shields.io/github/stars/VectorLogoZone/vectorlogozone.svg?style=social)
+![Github stars](https://img.shields.io/github/stars/wikimedia/wikimedia.svg?style=social)
 
 
 [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
 [![GitHub branches](https://badgen.net/github/branches/JaviRamosLab/Strapdown.js)](https://github.com/JaviRamosLab/Strapdown.js/)
+[![GitHub branches](https://badgen.net/github/branches/wikimedia/mediawiki.js)](https://github.com/JaviRamosLab/Strapdown.js/)
 
 [![GitHub release](https://img.shields.io/github/release/JaviRamosLab/StrapDown.js.svg)](https://GitHub.com/JaviRamosLab/StrapDown.js/releases/)
+[![GitHub release](https://img.shields.io/github/release/wikimedia/mediawiki.svg)](https://GitHub.com/JaviRamosLab/StrapDown.js/releases/)
 
 [![GitHub commits](https://badgen.net/github/commits/JaviRamosLab/Strapdown.js)](https://GitHub.com/JaviRamosLab/StrapDown.js/commit/)
+[![GitHub commits](https://badgen.net/github/commits/wikimedia/mediawiki.js)](https://GitHub.com/JaviRamosLab/StrapDown.js/commit/)
 
 ---
 
@@ -364,7 +368,6 @@ GitHub User's stars
 GitHub repo size
 ![GitHub repo size](https://img.shields.io/github/repo-size/Wikimedia/mediawiki)
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Wikimedia/mediawiki">
-
 
 GitHub issues
 ![GitHub issues](https://img.shields.io/github/issues/Wikimedia/mediawiki)

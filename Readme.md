@@ -11,10 +11,10 @@ Wikipedia/Wikimedia Shields.io badges
 - [x] Stats Wikiproject dynamic badges
 - [x] Stats User dynamic badges
 - [x] Brand Badges
-- [] Grphics charts
-- [] Picture of the day
-- [] [MediaWiki:Sitenotice](https://en.wikipedia.org/wiki/MediaWiki:Sitenotice) / [MediaWiki:Anonnotice](https://en.wikipedia.org/wiki/MediaWiki:Anonnotice)
-- [] API - endpoints
+- [ ] Grphics charts
+- [ ] Picture of the day
+- [ ] [MediaWiki:Sitenotice](https://en.wikipedia.org/wiki/MediaWiki:Sitenotice) / [MediaWiki:Anonnotice](https://en.wikipedia.org/wiki/MediaWiki:Anonnotice)
+- [ ] API - endpoints
 - [x] Easy to Use
 
 ## Use
@@ -700,3 +700,7 @@ I will be open to any contribution. If you have any idea, please let me know. Pl
 
 ## License
 [![licensebuttons by-sa](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0)
+
+### Show some ❤️ by starring some of the repositories!
+
+### Developed by Javier Ramos @JaviRamosLab from 🇨🇺 Cuba with "❤️ and ⏰"
